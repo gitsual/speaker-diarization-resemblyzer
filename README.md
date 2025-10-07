@@ -643,9 +643,11 @@ python3 -m venv venv_diarization
 source venv_diarization/bin/activate  # Linux/Mac
 # venv_diarization\Scripts\activate  # Windows
 
-# Instalar dependencias
+# Instalar PyTorch con soporte CUDA (instalar primero)
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-pip install resemblyzer librosa pysrt scipy tqdm numpy gradio
+
+# Instalar las demás dependencias desde requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 7.3 Pipeline de Uso
@@ -965,7 +967,7 @@ cd speaker-diarization-resemblyzer
 python3 -m venv venv_diarization
 source venv_diarization/bin/activate
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
-pip install resemblyzer librosa pysrt scipy tqdm numpy gradio
+pip install -r requirements.txt
 
 # 2. Crear perfiles de hablantes
 python enrollment_gui.py
