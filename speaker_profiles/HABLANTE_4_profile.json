@@ -1,0 +1,63 @@
+{
+  "speaker_id": "HABLANTE_4",
+  "num_segments": 5,
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_file": "Copia de 23 sept a las 17-42_temp.wav",
+      "start_time": 2232.0,
+      "end_time": 2242.0,
+      "duration": 10.0,
+      "notes": "Hache1",
+      "timestamp": "2025-10-03T15:18:57.644219",
+      "audio_path": "speaker_profiles/HABLANTE_4_segment_1.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_4_segment_1.npy"
+    },
+    {
+      "segment_id": 2,
+      "audio_file": "Copia de 23 sept a las 17-42_temp.wav",
+      "start_time": 5567.0,
+      "end_time": 5587.0,
+      "duration": 20.0,
+      "notes": "Hache2",
+      "timestamp": "2025-10-03T15:29:17.684531",
+      "audio_path": "speaker_profiles/HABLANTE_4_segment_2.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_4_segment_2.npy"
+    },
+    {
+      "segment_id": 3,
+      "audio_file": "Copia de 23 sept a las 17-42_temp.wav",
+      "start_time": 5814.0,
+      "end_time": 5822.0,
+      "duration": 8.0,
+      "notes": "Hache3",
+      "timestamp": "2025-10-03T15:35:31.839153",
+      "audio_path": "speaker_profiles/HABLANTE_4_segment_3.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_4_segment_3.npy"
+    },
+    {
+      "segment_id": 4,
+      "audio_file": "Copia de 23 sept a las 17-42_temp.wav",
+      "start_time": 8788.0,
+      "end_time": 8795.0,
+      "duration": 7.0,
+      "notes": "Hache4",
+      "timestamp": "2025-10-03T19:05:47.756536",
+      "audio_path": "speaker_profiles/HABLANTE_4_segment_4.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_4_segment_4.npy"
+    },
+    {
+      "segment_id": 5,
+      "audio_file": "Copia de 23 sept a las 17-42_temp.wav",
+      "start_time": 8880.0,
+      "end_time": 8888.0,
+      "duration": 8.0,
+      "notes": "Hache5",
+      "timestamp": "2025-10-03T19:06:38.942551",
+      "audio_path": "speaker_profiles/HABLANTE_4_segment_5.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_4_segment_5.npy"
+    }
+  ],
+  "avg_embedding_path": "speaker_profiles/HABLANTE_4_avg_embedding.npy",
+  "last_updated": "2025-10-03T19:06:38.943241"
+}

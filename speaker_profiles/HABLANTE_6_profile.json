@@ -1,0 +1,63 @@
+{
+  "speaker_id": "HABLANTE_6",
+  "num_segments": 5,
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_file": "Copia de 23 sept a las 17-42_temp.wav",
+      "start_time": 6159.0,
+      "end_time": 6167.0,
+      "duration": 8.0,
+      "notes": "Juancar1",
+      "timestamp": "2025-10-03T15:39:50.270425",
+      "audio_path": "speaker_profiles/HABLANTE_6_segment_1.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_6_segment_1.npy"
+    },
+    {
+      "segment_id": 2,
+      "audio_file": "Rol 2_temp.wav",
+      "start_time": 3450.0,
+      "end_time": 3461.0,
+      "duration": 11.0,
+      "notes": "Juancar2",
+      "timestamp": "2025-10-03T19:16:00.472988",
+      "audio_path": "speaker_profiles/HABLANTE_6_segment_2.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_6_segment_2.npy"
+    },
+    {
+      "segment_id": 3,
+      "audio_file": "Rol 2_temp.wav",
+      "start_time": 7566.0,
+      "end_time": 7574.0,
+      "duration": 8.0,
+      "notes": "JuanCar3",
+      "timestamp": "2025-10-03T19:24:26.498462",
+      "audio_path": "speaker_profiles/HABLANTE_6_segment_3.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_6_segment_3.npy"
+    },
+    {
+      "segment_id": 4,
+      "audio_file": "Rol 2_temp.wav",
+      "start_time": 7574.0,
+      "end_time": 7587.0,
+      "duration": 13.0,
+      "notes": "JuanCar5",
+      "timestamp": "2025-10-03T19:24:50.701666",
+      "audio_path": "speaker_profiles/HABLANTE_6_segment_4.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_6_segment_4.npy"
+    },
+    {
+      "segment_id": 5,
+      "audio_file": "Rol 2_temp.wav",
+      "start_time": 7733.0,
+      "end_time": 7741.0,
+      "duration": 8.0,
+      "notes": "JuanCar5",
+      "timestamp": "2025-10-03T19:26:01.466426",
+      "audio_path": "speaker_profiles/HABLANTE_6_segment_5.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_6_segment_5.npy"
+    }
+  ],
+  "avg_embedding_path": "speaker_profiles/HABLANTE_6_avg_embedding.npy",
+  "last_updated": "2025-10-03T19:26:01.467193"
+}

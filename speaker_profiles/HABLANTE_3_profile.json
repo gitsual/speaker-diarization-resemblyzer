@@ -1,0 +1,63 @@
+{
+  "speaker_id": "HABLANTE_3",
+  "num_segments": 5,
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_file": "Copia de 23 sept a las 17-42_temp.wav",
+      "start_time": 228.0,
+      "end_time": 234.0,
+      "duration": 6.0,
+      "notes": "Sanz1",
+      "timestamp": "2025-10-03T15:01:34.381892",
+      "audio_path": "speaker_profiles/HABLANTE_3_segment_1.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_3_segment_1.npy"
+    },
+    {
+      "segment_id": 2,
+      "audio_file": "Copia de 23 sept a las 17-42_temp.wav",
+      "start_time": 543.0,
+      "end_time": 548.0,
+      "duration": 5.0,
+      "notes": "Sanz2",
+      "timestamp": "2025-10-03T15:05:03.547747",
+      "audio_path": "speaker_profiles/HABLANTE_3_segment_2.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_3_segment_2.npy"
+    },
+    {
+      "segment_id": 3,
+      "audio_file": "Copia de 23 sept a las 17-42_temp.wav",
+      "start_time": 9370.0,
+      "end_time": 9385.0,
+      "duration": 15.0,
+      "notes": "Sanz3",
+      "timestamp": "2025-10-03T19:11:11.212234",
+      "audio_path": "speaker_profiles/HABLANTE_3_segment_3.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_3_segment_3.npy"
+    },
+    {
+      "segment_id": 4,
+      "audio_file": "Rol 2_temp.wav",
+      "start_time": 4878.0,
+      "end_time": 4884.0,
+      "duration": 6.0,
+      "notes": "Sanz4",
+      "timestamp": "2025-10-03T19:18:19.984456",
+      "audio_path": "speaker_profiles/HABLANTE_3_segment_4.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_3_segment_4.npy"
+    },
+    {
+      "segment_id": 5,
+      "audio_file": "Rol 2_temp.wav",
+      "start_time": 4890.0,
+      "end_time": 4900.0,
+      "duration": 10.0,
+      "notes": "Sanz5",
+      "timestamp": "2025-10-03T19:18:53.357656",
+      "audio_path": "speaker_profiles/HABLANTE_3_segment_5.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_3_segment_5.npy"
+    }
+  ],
+  "avg_embedding_path": "speaker_profiles/HABLANTE_3_avg_embedding.npy",
+  "last_updated": "2025-10-03T19:18:53.358412"
+}

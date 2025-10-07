@@ -1,0 +1,74 @@
+{
+  "speaker_id": "HABLANTE_2",
+  "num_segments": 6,
+  "segments": [
+    {
+      "segment_id": 1,
+      "audio_file": "Copia de 23 sept a las 17-42_temp.wav",
+      "start_time": 219.0,
+      "end_time": 228.0,
+      "duration": 9.0,
+      "notes": "Rodri1",
+      "timestamp": "2025-10-03T15:00:42.235971",
+      "audio_path": "speaker_profiles/HABLANTE_2_segment_1.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_2_segment_1.npy"
+    },
+    {
+      "segment_id": 2,
+      "audio_file": "Copia de 23 sept a las 17-42_temp.wav",
+      "start_time": 5961.0,
+      "end_time": 5966.0,
+      "duration": 5.0,
+      "notes": "Rodri2",
+      "timestamp": "2025-10-03T15:37:35.399439",
+      "audio_path": "speaker_profiles/HABLANTE_2_segment_2.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_2_segment_2.npy"
+    },
+    {
+      "segment_id": 3,
+      "audio_file": "Copia de 23 sept a las 17-42_temp.wav",
+      "start_time": 5970.0,
+      "end_time": 5981.0,
+      "duration": 11.0,
+      "notes": "Rodri3",
+      "timestamp": "2025-10-03T15:38:12.813304",
+      "audio_path": "speaker_profiles/HABLANTE_2_segment_3.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_2_segment_3.npy"
+    },
+    {
+      "segment_id": 4,
+      "audio_file": "Copia de 23 sept a las 17-42_temp.wav",
+      "start_time": 8120.0,
+      "end_time": 8125.0,
+      "duration": 5.0,
+      "notes": "Rodri4",
+      "timestamp": "2025-10-03T19:02:34.554627",
+      "audio_path": "speaker_profiles/HABLANTE_2_segment_4.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_2_segment_4.npy"
+    },
+    {
+      "segment_id": 5,
+      "audio_file": "Copia de 23 sept a las 17-42_temp.wav",
+      "start_time": 8193.0,
+      "end_time": 8201.0,
+      "duration": 8.0,
+      "notes": "Rodri5",
+      "timestamp": "2025-10-03T19:03:30.290105",
+      "audio_path": "speaker_profiles/HABLANTE_2_segment_5.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_2_segment_5.npy"
+    },
+    {
+      "segment_id": 6,
+      "audio_file": "Copia de 23 sept a las 17-42_temp.wav",
+      "start_time": 8243.0,
+      "end_time": 8248.0,
+      "duration": 5.0,
+      "notes": "Rodri6",
+      "timestamp": "2025-10-03T19:04:37.897255",
+      "audio_path": "speaker_profiles/HABLANTE_2_segment_6.wav",
+      "embedding_path": "speaker_profiles/HABLANTE_2_segment_6.npy"
+    }
+  ],
+  "avg_embedding_path": "speaker_profiles/HABLANTE_2_avg_embedding.npy",
+  "last_updated": "2025-10-03T19:04:37.898229"
+}
